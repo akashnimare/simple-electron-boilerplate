@@ -25,6 +25,16 @@ $ npm run watch
 ```
 $ npm run build
 ```
+## Features
+
+- [x] Basic Menu items
+- [x] Tray support
+- [x] About window for app
+- [x] Restore window on close
+- [x] Livereload
+- [ ] OSX/Win/Linux installer
+- [ ] Launch on OS startup
+- [ ] Automatic Updates
 
 ## License
 
