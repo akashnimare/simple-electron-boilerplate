@@ -2,10 +2,8 @@
 
 > The aim of this boilerplate is to provide basic electron features which are required in every desktop app.
 
-
-```
 ## Features
-
+```
 - [x] Basic Menu items
 - [x] Tray support
 - [x] About window for app
