@@ -1,29 +1,8 @@
-# Electron desktop app
+# simple-electron-boilerplate
 
-> Awesome Electron app
+> The aim of this boilerplate is to provide basic electron features which are required for most of the desktop app.
 
 
-## Dev
-
-```
-$ npm install
-```
-
-### Run
-
-```
-$ npm start
-```
-### Watch
-
-```
-$ npm run watch
-```
-
-### Build
-
-```
-$ npm run build
 ```
 ## Features
 
@@ -38,4 +17,4 @@ $ npm run build
 
 ## License
 
-MIT © [Yourname](https://yourwebsite.com)
+MIT © [Akash](https://akashnimare.in)
