@@ -1,6 +1,6 @@
 # simple-electron-boilerplate
 
-> The aim of this boilerplate is to provide basic electron features which are required for most of the desktop app.
+> The aim of this boilerplate is to provide basic electron features which are required in every desktop app.
 
 
 ```
@@ -14,7 +14,7 @@
 - [ ] OSX/Win/Linux installer
 - [ ] Launch on OS startup
 - [ ] Automatic Updates
-
+```
 ## License
 
-MIT © [Akash](https://akashnimare.in)
+MIT © [meakaakka](https://akashnimare.in)
