@@ -108,7 +108,7 @@ const darwinTpl = [
 		label: `${app.getName()}`,
 		submenu: [
 			{
-				label: `${appName}`,
+				label: `About ${appName}`,
 				click() {
 					about();
 				}
