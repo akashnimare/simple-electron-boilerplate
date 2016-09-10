@@ -8,6 +8,7 @@
 - [x] About window for app
 - [x] Restore window on close
 - [x] Livereload
+- [x] Tests using spectron + mocha 
 - [ ] OSX/Win/Linux installer
 - [ ] Launch on OS startup
 - [ ] Automatic Updates
