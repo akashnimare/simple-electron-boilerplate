@@ -1,1 +1,6 @@
+node_modules
+npm-debug.log
 
+// osx garbage
+*.DS_Store
+.DS_Store
